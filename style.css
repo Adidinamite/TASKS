@@ -1,0 +1,32 @@
+.albastru_inchis{
+    background-color: #919be5;
+    float: left;
+    width:12%;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    padding:20px 0 20px;
+}
+.albastru_deschis{
+    background: #a2d3f7;
+    float: left;
+    width:36.33%;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    padding:20px 0 20px;
+}
+.rosu{
+    background-color: #e49386;
+    float: left;
+    width:30.33%;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    padding:20px 0 20px;
+}
+.divv{
+    margin-right: auto;
+    margin-left: auto ;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 55px;
+}
